@@ -1,0 +1,517 @@
+filetype:inc inc intext:setcookie 
+filetype:inc intext:mysql_connect
+filetype:inc intext:mysql_connect 
+filetype:inc mysql_connect OR mysql_pconnect
+filetype:inc mysql_connect OR mysql_pconnect 
+filetype:inf   inurl:capolicy.inf
+filetype:inf inurl:capolicy.inf
+filetype:inf inurl:capolicy.inf 
+filetype:inf sysprep
+filetype:inf sysprep 
+filetype:ini Desktop.ini intext:mydocs.dll 
+filetype:ini ServUDaemon
+filetype:ini ServUDaemon 
+filetype:ini inurl:"serv-u.ini"
+filetype:ini inurl:\"serv-u.ini\" 
+filetype:ini inurl:flashFXP.ini
+filetype:ini inurl:flashFXP.ini 
+filetype:ini inurl:”serv-u.ini”
+filetype:ini wcx_ftp
+filetype:ini wcx_ftp 
+filetype:ini ws_ftp pwd
+filetype:ini ws_ftp pwd 
+filetype:ldb admin
+filetype:ldb admin 
+filetype:lic lic intext:key
+filetype:lic lic intext:key 
+filetype:lit lit (books|ebooks) 
+filetype:log   access.log -CVS
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log \"See `ipsec copyright\" 
+filetype:log access.log -CVS
+filetype:log access.log -CVS 
+filetype:log cron.log
+filetype:log intext:"ConnectionManager2"
+filetype:log intext:”ConnectionManager2″
+filetype:log inurl:"password.log"
+filetype:log inurl:\"password.log\" 
+filetype:log inurl:password.log
+filetype:log inurl:”password.log”
+filetype:log username putty PUTTY SSH client logs can reveal usernames
+filetype:log “PHP Parse error” | “PHP Warning” | “PHP Error”
+filetype:log “See `ipsec –copyright”
+filetype:mbx mbx intext:Subject
+filetype:mbx mbx intext:Subject 
+filetype:mdb inurl:\"news/news\" 
+filetype:mdb inurl:profiles Microsoft Access databases containing (user)
+filetype:mdb inurl:users.mdb
+filetype:mdb inurl:users.mdb 
+filetype:mdb wwforum
+filetype:mdb wwforum 
+filetype:myd myd   -CVS
+filetype:myd myd -CVS
+filetype:myd myd -CVS 
+filetype:netrc password
+filetype:netrc password 
+filetype:ns ns 
+filetype:ns1 ns1
+filetype:ora ora
+filetype:ora tnsnames
+filetype:pass pass intext:userid
+filetype:pdb pdb backup (Pilot | Pluckerdb)
+filetype:pdf "Assessment Report" nessus
+filetype:pdf “Assessment Report” nessus
+filetype:pem intext:private
+filetype:php inurl:"logging.php" "Discuz" error
+filetype:php inurl:"webeditor.php"
+filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net
+filetype:php inurl:ipinfo.php "Distributed Intrusion Detection System"
+filetype:php inurl:ipinfo.php “Distributed Intrusion Detection System”
+filetype:php inurl:nqt intext:"Network Query Tool"
+filetype:php inurl:nqt intext:”Network Query Tool”
+filetype:php inurl:vAuthenticate
+filetype:php inurl:”logging.php” “Discuz” error
+filetype:php inurl:”webeditor.php”
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+filetype:pl intitle:"Ultraboard Setup"
+filetype:pl intitle:”Ultraboard Setup”
+filetype:pl “Download: SuSE Linux Openexchange Server CA”
+filetype:pot inurl:john.pot
+filetype:properties inurl:db intext:password
+filetype:pst inurl:"outlook.pst"
+filetype:pst inurl:”outlook.pst”
+filetype:pst pst -from -to -date
+filetype:pwd service
+filetype:pwl pwl
+filetype:qbb   qbb
+filetype:qbb qbb
+filetype:r2w r2w
+filetype:rdp rdp
+filetype:rdp rdp 
+filetype:rdp rdp Remote Desktop Connection files reveal user
+filetype:reg "Terminal Server Client"
+filetype:reg \"Terminal Server Client\" 
+filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
+filetype:reg reg +intext:\"defaultusername\" +intext:\"defaultpassword\" 
+filetype:reg reg +intext:â? WINVNC3â?
+filetype:reg reg +intext:”defaultusername” +intext:”defaultpassword”
+filetype:reg reg HKEY_ Windows Registry exports can reveal
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS
+filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS 
+filetype:reg reg intext: Microsoft Internet Account Manager can
+filetype:reg “Terminal Server Client”
+filetype:sql "insert into" (pass|passwd|password)
+filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
+filetype:sql (\"passwd values\" | \"password values\" | \"pass values\" ) 
+filetype:sql (\"values * MD\" | \"values * password\" | \"values * encrypt\") 
+filetype:sql (“values * MD5″ | “values * password” | “values * encrypt”)
+filetype:sql +"IDENTIFIED BY" -cvs
+filetype:sql +\"IDENTIFIED BY\" -cvs 
+filetype:sql +”IDENTIFIED BY” -cvs
+filetype:sql password
+filetype:sql password 
+filetype:sql “insert into” (pass|passwd|password)
+filetype:torrent torrent 
+filetype:url +inurl:"ftp://" +inurl:";@"
+filetype:url +inurl:\"ftp://\" +inurl:\";@\" 
+filetype:url +inurl:”ftp://” +inurl:”;@”
+filetype:vcs   vcs
+filetype:vcs vcs
+filetype:vcs vcs 
+filetype:vsd vsd network -samples -examples
+filetype:wab wab
+filetype:wab wab 
+filetype:wab wab Microsoft Outlook Express Mail address
+filetype:wsdl wsdl 
+filetype:xls   inurl:"email.xls"
+filetype:xls -site:gov inurl:contact
+filetype:xls -site:gov inurl:contact 
+filetype:xls inurl:"email.xls"
+filetype:xls inurl:\"email.xls\" 
+filetype:xls inurl:”email.xls”
+filetype:xls username password email
+filetype:xls username password email 
+filetype[Only Registered Users Can See Links] qbb 
+filetypeass pass intext:userid 
+filetypedb pdb backup (Pilot | Pluckerdb)
+filetypedb pdb backup (Pilot | Pluckerdb) 
+filetypeem intextrivate 
+filetypehp HAXPLORER \"Server Files Browser\" 
+filetypehp inurl:\"viewfile\" -\"index.php\" -\"idfil 
+filetypehp inurl:index inurlhpicalendar   -site:sourceforge.net
+filetypehp inurl:index inurlhpicalendar -site:sourceforge.net
+filetypehp inurl:index inurlhpicalendar -site:sourceforge.net 
+filetypel -intext:\"/usr/bin/perl\" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config) 
+filetypeot inurl:john.pot
+filetypeot inurl:john.pot 
+filetypera ora
+filetypera ora 
+filetypera orafiletypedb pdb backup (Pilot |   Pluckerdb)
+filetypera tnsnames 
+filetyperoperties inurl:db intextassword 
+filetypest   inurl:"outlook.pst"
+filetypest inurl:"outlook.pst"
+filetypest inurl:\"outlook.pst\" 
+filetypest pst -from -to -date
+filetypest pst -from -to -date 
+filetypewd service 
+filetypewl pwl 
+haccess.ctl   (one way)
+haccess.ctl (VERY reliable)
+haccess.ctl (VERY reliable) 
+haccess.ctl (one way)
+haccess.ctl (one way) 
+ht://Dig htsearch error
+htpasswd
+htpasswd 
+htpasswd / htgroup
+htpasswd / htgroup 
+htpasswd / htpasswd.bak
+htpasswd / htpasswd.bak 
+iletype:log   cron.log
+iletype:log cron.log
+iletype:log cron.log 
+index of: intext:Gallery in Configuration mode
+index.of passlist
+index.of perform.ini mIRC IRC ini file can list IRC usernames and
+index.of.dcim 
+index.of.password 
+intext:" -FrontPage-" ext:pwd inurl:(service | authors | administrators | users)
+intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+intext:"# -FrontPage-" ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
+intext:"#mysql dump" filetype:sql
+intext:"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3
+intext:"A syntax error has occurred" filetype:ihtml
+intext:"ASP.NET_SessionId" "data source="
+intext:"About Mac OS Personal Web Sharing"
+intext:"An illegal character has been found in the statement" -"previous message"
+intext:"AutoCreate=TRUE password=*"
+intext:"Can't connect to local" intitle:warning
+intext:"Certificate Practice Statement" filetype:PDF | DOC
+intext:"Certificate Practice Statement" inurl:(PDF | DOC)
+intext:"Chatologica MetaSearch" "stack tracking"
+intext:"Chatologica MetaSearch" "stack tracking:"
+intext:"Copyright (c) Tektronix, Inc." "printer status"
+intext:"Copyright © Tektronix, Inc." "printer status"
+intext:"Dumping data for table"
+intext:"EZGuestbook"
+intext:"Emergisoft web applications are a part of our"
+intext:"Error Diagnostic Information" intitle:"Error Occurred While"
+intext:"Error Message : Error loading required libraries."
+intext:"Establishing a secure Integrated Lights Out session with" OR intitle:"Data Frame - Browser not HTTP 1.1 compatible" OR intitle:"HP Integrated Lights-
+intext:"Fatal error: Call to undefined function" -reply -the -next
+intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed." -edu
+intext:"Generated   by phpSystem"
+intext:"Generated by phpSystem"
+intext:"HTTP_FROM=googlebot" googlebot.com   "Server_Software="
+intext:"HTTP_FROM=googlebot" googlebot.com "Server_Software="
+intext:"Host   Vulnerability Summary Report"
+intext:"Host Vulnerability Summary   Report"
+intext:"Host Vulnerability Summary Report"
+intext:"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
+intext:"IMail Server Web Messaging" intitle:login
+intext:"Incorrect syntax near"
+intext:"Index   of" / "chat/logs"
+intext:"Index Of /network" "last modified"
+intext:"Index of /" +.htaccess
+intext:"Index of /" +passwd
+intext:"Index of /" +password.txt
+intext:"Index of /admin"
+intext:"Index of /backup"
+intext:"Index of /mail"
+intext:"Index of /password"
+intext:"Index of" / "chat/logs"
+intext:"Installed   Objects Scanner" inurl:default.asp
+intext:"Installed Objects Scanner" inurl:default.asp
+intext:"Internal Server Error" "server at"
+intext:"Invision Power Board Database Error"
+intext:"Login - Sun Cobalt RaQ"
+intext:"Login to Usermin" inurl:20000
+intext:"MacHTTP" filetype:log inurl:machttp.log
+intext:"Mail admins login here to administrate your domain."
+intext:"Master Account" "Domain Name" "Password" inurl:/cgi-bin/qmailadmin
+intext:"Mecury   Version" "Infastructure Group"
+intext:"Mecury Version" "Infastructure   Group"
+intext:"Mecury Version" "Infastructure Group"
+intext:"Microsoft (R) Windows * (TM) Version   * DrWtsn32 Copyright (C)" ext:log
+intext:"Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)" ext:log
+intext:"Microsoft CRM : Unsupported Browser Version"
+intext:"Microsoft ® Windows * ™ Version * DrWtsn32 Copyright ©" ext:log
+intext:"More Info about MetaCart Free"
+intext:"Most   Submitted Forms and Scripts" "this section"
+intext:"Most Submitted Forms and Scripts"   "this section"
+intext:"Most Submitted Forms and Scripts" "this section"
+intext:"Most Submitted Forms and s?ri?ts" "this section"
+intext:"Network Host Assessment Report" "Internet Scanner"
+intext:"Network Vulnerability   Assessment Report"
+intext:"Network Vulnerability Assessment Report"
+intext:"Network Vulnerability Assessment Report" 本文来自 pc007.com
+intext:"OPENSRS Domain Management" inurl:manage.cgi
+intext:"ORA-00921: unexpected end of SQL command"
+intext:"ORA-00933: SQL command not properly ended"
+intext:"ORA-00936: missing expression"
+intext:"ORA-12541: TNS:no listener" intitle:"error occurred"
+intext:"Output produced by SysWatch *"
+intext:"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+intext:"Phorum Admin" "Database Connection" inurl:forum inurl:admin
+intext:"Please authenticate yourself to get access to the management interface"
+intext:"Please login with admin pass" -"leak" -sourceforge
+intext:"PostgreSQL query failed: ERROR: parser: parse error"
+intext:"Powered by UebiMiau" -site:sourceforge.net
+intext:"Powered by mnoGoSearch - free web search engine software"
+intext:"Request Details" "Control   Tree" "Server Variables"
+intext:"Request Details" "Control Tree" "Server Variables"
+intext:"Running   in Child mode"
+intext:"Running in Child mode"
+intext:"SQL Server Driver][SQL Server]Line 1: Incorrect syntax near"
+intext:"Select a database to view" intitle:"filemaker pro"
+intext:"Session Start * * * *:*:* *" filetype:log
+intext:"Shadow Security Scanner performed a vulnerability assessment"
+intext:"SnortSnarf alert page"
+intext:"SquirrelMail version" "By the SquirrelMail development Team"
+intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user"
+intext:"Storage Management Server for" intitle:"Server Administration"
+intext:"Supplied argument is not a valid MySQL result resource"
+intext:"Supplied argument is not a valid PostgreSQL result"
+intext:"Syntax error in query expression " -the
+intext:"SysCP - login"
+intext:"Thank you for your order"   +receipt
+intext:"Thank you for your order" +receipt
+intext:"Thank you for your purchase" +download
+intext:"The following report contains confidential information" vulnerability -search
+intext:"The s?ri?t whose uid is " "is not allowed to access"
+intext:"The statistics were last upd?t?d" "Daily"-microsoft.com
+intext:"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+intext:"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+intext:"These   statistics were produced by getstats"
+intext:"These statistics were produced by getstats"
+intext:"This is a Shareaza   Node""This report was generated by WebLog"
+intext:"This is a Shareaza Node"
+intext:"This is a restricted Access Server" "Javas?ri?t Not Enabled!"|"Messenger Express" -edu -ac
+intext:"This report lists" "identified by Internet Scanner"
+intext:"This report was generated by   WebLog"
+intext:"This report was generated by WebLog"
+intext:"This section is for Administrators only. If you are an administrator then please"
+intext:"This summary was generated by wwwstat"
+intext:"Tobias   Oetiker" "traffic analysis"
+intext:"Tobias Oetiker" "traffic analysis"
+intext:"Traffic Analysis for" "RMON Port * on unit *"
+intext:"Unable to jump to row" "on MySQL result index" "on line"
+intext:"Unclosed quotation mark before the character string"
+intext:"VHCS Pro ver" -demo
+intext:"VNC Desktop" inurl:5800
+intext:"Version Info" "Boot Version" "Internet Settings"
+intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -
+intext:"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum
+intext:"Warning: Cannot modify header information - headers already sent"
+intext:"Warning: Division by zero in" "on line" -forum
+intext:"Warning: Failed opening" "on line" "include_path"
+intext:"Warning: Supplied argument is not a valid File-Handle resource in"
+intext:"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
+intext:"Warning: mysql_query()" "invalid query"
+intext:"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+intext:"Warning:" "SAFE MODE Restriction in effect." "The s?ri?t whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+intext:"Warning:" "failed to open stream: HTTP request failed" "on line"
+intext:"Web File Browser" "Use regular expression"
+intext:"Web Wiz Journal"
+intext:"Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+intext:"WebExplorer Server - Login" "Welcome to WebExplorer Server"
+intext:"WebSTAR Mail - Please Log In"
+intext:"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+intext:"Welcome to Intranet"
+intext:"Welcome to PHP-Nuke" congratulations
+intext:"Welcome to the Prestige Web-Based Configurator"
+intext:"Welcome to the Web V.Networks" intitle:"V.Networks [Top]" -filetype:htm
+intext:"Welcome to" inurl:"cp" intitle:"H-SPHERE" inurl:"begin.html" -Fee
+intext:"YaBB SE Dev Team"
+intext:"You have an error in your SQL syntax near"
+intext:"You have requested access to a restricted area of our website. Please authenticate yourself to continue."
+intext:"You have requested to access the management functions" -.edu
+intext:"Your password is * Remember this for later use"
+intext:"access denied for user" "using password"
+intext:"allow_call_time_pass_reference"   "PATH_INFO"
+intext:"allow_call_time_pass_reference" "PATH_INFO"
+intext:"apricot - admin" 00h
+intext:"bp blog admin" intitle:login | intitle:admin -site:johnny.ihackstuff.com
+intext:"by Reimar Hoven. All Rights Reserved. Disclaimer" | inurl:"log/logdb.dta"
+intext:"d.aspx?id" || inurl:"d.aspx?id"
+intext:"detected an internal error [IBM][CLI Driver][DB2/6000]"
+intext:"enable password 7"
+intext:"enable secret 5 $"
+intext:"error found handling the request" cocoon filetype:xml
+intext:"ftp://" "www.eastgame.net"
+intext:"generated by wwwstat"
+intext:"html allowed" guestbook
+intext:"http://*:*@www" domainname
+intext:"iCONECT 4.1 :: Login"
+intext:"index of /private" -site:net -site:com -site:org
+intext:"index of /private" site:mil
+intext:"index of/" "ws_ftp.ini" "parent directory"
+intext:"inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+intext:"intitle:3300 Integrated Communications Platform" inurl:main.htm
+intext:"liveice configuration file" ext:cfg
+intext:"liveice configuration file" ext:cfg -site:sourceforge.net
+intext:"login prompt" inurl:GM.cgi
+intext:"mySQL error with query"
+intext:"mysql dump" filetype:sql
+intext:"not for   distribution" confidential
+intext:"not for distribution"   confidential
+intext:"not for distribution" confidential
+intext:"not for public release" -.edu -.gov -.mil
+intext:"parent directory " /appz/ -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory " DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory " Gamez -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory " MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory " Name of Singer or album -xxx -html -htm -php -shtml -opendivx
+intext:"parent directory " Name of Singer or album -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory "Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
+intext:"parent directory" +proftpdpasswd
+intext:"password"
+intext:"pcANYWHERE EXPRESS Java Client"
+intext:"phone * * *" "address *" "e-mail"   intitle:"curriculum vitae"
+intext:"phone * * *" "address *" "e-mail" intitle:"curriculum   vitae"
+intext:"phone * * *" "address *" "e-mail" intitle:"curriculum vitae"
+intext:"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+intext:"phpMyAdmin MySQL-Dump" filetype:txt
+intext:"phpMyAdmin" "running on" inurl:"main.php"
+intext:"please log in"
+intext:"powered by Web Wiz Journal"
+intext:"powered by openbsd" +"powered by apache"
+intext:"powered | performed by Beyond Security's Automated Scanning" -kazaa -example
+intext:"produced   by getstats"
+intext:"produced by getstats"
+intext:"robots.txt"   "Disallow:" filetype:txt
+intext:"robots.txt" "Disallow:" filetype:txt
+intext:"set up the administrator user" inurl:pivot
+intext:"sets   mode: +s"
+intext:"sets mode: +k"
+intext:"sets mode: +p"
+intext:"sets mode: +s"
+intext:"site info for" "Enter Admin Password"
+intext:"this proxy is working fine!" "enter *" "URL***" * visit
+intext:"ttawlogin.cgi/?action="
+intext:"vbulletin" inurl:admincp
+intext:"you can now password" | "this is a special page only seen by you. your profile visitors" inurl:imchaos
+intext:"your password is" filetype:log
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+intext:SQLiteManager   inurl:main.php
+intext:SQLiteManager inurl:main.php
+intext:SQLiteManager inurl:main.php 
+intext:ViewCVS inurl:Settings.php
+intext:\"Powered By: TotalIndex\" intitle:\"TotalIndex\" 
+intext:\"Session Start * * * *:*:* *\" filetype:log 
+intext:\"Tobias Oetiker\" \"traffic analysis\" 
+intext:\"d.aspx?id\" || inurl:\"d.aspx?id\" 
+intext:\"enable secret $\" 
+intext:\"powered by Web Wiz Journal\" 
+intext:gmail invite   intext:http://gmail.google.com/gmail/a
+intext:gmail invite intext:[Only Registered Users Can See Links] 
+intext:gmail invite intext:http://gmail.google.com/gmail/a
+intext:password | passcode) intextusername | userid | user) filetype:csv
+intext:”"BiTBOARD v2.0″ BiTSHiFTERS Bulletin Board”
+intext:”EZGuestbook”
+intext:”Error Message : Error loading required libraries.”
+intext:”Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed.” -edu
+intext:”Mail admins login here to administrate your domain.”
+intext:”Master Account” “Domain Name” “Password” inurl:/cgi-bin/qmailadmin
+intext:”Session Start * * * *:*:* *” filetype:log
+intext:”Storage Management Server for” intitle:”Server Administration”
+intext:”Tobias Oetiker” “traffic analysis”
+intext:”Warning: * am able * write ** configuration file” “includes/configure.php” -
+intext:”Warning: Failed opening” “on line” “include_path”
+intext:”Web Wiz Journal”
+intext:”Welcome to the Web V.Networks” intitle:”V.Networks [Top]” -filetype:htm
+intext:”Welcome to” inurl:”cp” intitle:”H-SPHERE” inurl:”begin.html” -Fee
+intext:”enable password 7″
+intext:”enable secret 5 $”
+intext:”vbulletin” inurl:admincp
+intextpassword | passcode)   intextusername | userid | user) filetype:csv
+intextpassword | passcode) intextusername | userid | user) filetype:csv 
+intitle: "index of" passwd passwd.bak
+intitle:"*- HP WBEM Login" | "You are being prompted to provide login account information for *" | "Please provide the information requested and press
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where" username password
+intitle:"500 Internal Server Error" "server at"
+intitle:"ADSL Configuration page"
+intitle:"ASP   Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"
+intitle:"ASP Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"
+intitle:"Admin Login" "admin login" "blogware"
+intitle:"Admin login" "Web Site Administration" "Copyright"
+intitle:"AlternC Desktop"
+intitle:"Apache Tomcat" "Error Report"
+intitle:"Apache::Status" (inurl:server-status |   inurl:status.html | inurl:apache.html)
+intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
+intitle:"AppServ Open Project" -site:www.appservnetwork.com
+intitle:"Athens Authentication Point"
+intitle:"Azureus : Java BitTorrent Client Tracker"
+intitle:"BNBT Tracker Info"
+intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc's PC Management products, for large and small companies."
+intitle:"Big   Sister" +"OK Attention Trouble"
+intitle:"Big Sister" +"OK Attention Trouble"
+intitle:"Browser Launch Page"
+intitle:"Cisco CallManager User Options Log On" "Please enter your User ID and Password in the spaces provided below and click the Log On button to co
+intitle:"ColdFusion Administrator Login"
+intitle:"Connection Status" intext:"Current login"
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo
+intitle:"Default PLESK Page"
+intitle:"Dell Remote Access Controller"
+intitle:"DocuShare"
+intitle:"DocuShare"   inurl:"docushare/dsweb/" -faq
+intitle:"DocuShare" inurl:"docushare/dsweb/" -faq
+intitle:"DocuShare" inurl:"docushare/dsweb/" -faq -gov -edu
+intitle:"Docutek ERes - Admin Login" -edu
+intitle:"EXTRANET * - Identification"
+intitle:"EXTRANET login" -.edu -.mil -.gov
+intitle:"EZPartner" -netpond
+intitle:"Employee Intranet Login"
+intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+intitle:"Error using Hypernews" "Server Software"
+intitle:"EverFocus.EDSR.app<-b>let"
+intitle:"EverFocus.EDSR.applet"
+intitle:"Execution of this s?ri?t not permitted"
+intitle:"FTP root at"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"Gateway Configuration Menu"
+intitle:"Horde :: My Portal" -"[Tickets"
+intitle:"ISPMan : Unauthorized Access prohibited"
+intitle:"ITS System Information" "Please log on to the SAP System"
+intitle:"Icecast Administration Admin Page"
+intitle:"Index   Of" -inurl:maillog maillog size
+intitle:"Index Of" -inurl:maillog maillog size
+intitle:"Index Of" cookies.txt size
+intitle:"Index of" ".htpasswd" "htgroup" -intitle:"dist" -apache -htpasswd.c
+intitle:"Index of" .bash_history
+intitle:"Index of" .mysql_history
+intitle:"Index of" .sh_history
+intitle:"Index of" cfide
+intitle:"Index of" passwords modified
+intitle:"Index of" pwd.db
+intitle:"Index of" sc_serv.conf sc_serv content
+intitle:"Index of" spwd.db passwd -pam.conf
+intitle:"Index of" upload size parent   directory
+intitle:"Index of" upload size parent directory
+intitle:"Index of..etc" passwd
+intitle:"Joomla - Web Installer"
+intitle:"Kurant Corporation StoreSense" filetype:bok
+intitle:"LOGREP - Log file reporting system" -site:itefix.no
+intitle:"ListMail Login" admin -demo
+intitle:"Login -
+intitle:"Login Forum
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+intitle:"Login to Cacti"
+intitle:"Login to the forums - @www.aimoo.com" inurl:login.cfm?id=
+intitle:"MX Control Console" "If you can't remember"
+intitle:"Mail Server CMailServer Webmail" "5.2"
+intitle:"MailMan Login"
+intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+intitle:"Merak Mail Server Web Administration" -ihackstuff.com
+intitle:"Microsoft Site Server Analysis"
+intitle:"MikroTik RouterOS Managing Webpage"
+intitle:"Multimon UPS status page"
+
+
+
+
+
